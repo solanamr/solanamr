@@ -33,7 +33,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
  
   ## :pushpin: My proyects
-  <div>
+  
  ![concerteck1](https://user-images.githubusercontent.com/87136807/179633597-1e583d49-407e-4e32-805b-523a9794d5bf.jpg)
-  </div>
+
   
