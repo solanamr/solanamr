@@ -63,6 +63,6 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :paperclip: How to reach me:
 
  <a href="https://www.linkedin.com/in/solana-romero/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" ></a> 
- <a href = "mailto:romerosolana@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" ></a>
+ <a href = "mailto:romerosolana@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" ></a>
 
 
