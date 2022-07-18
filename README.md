@@ -22,6 +22,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <div>
   <img align="center" title="nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  </div>
   
 #### Tools:
 <div>
@@ -29,3 +30,11 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </div>
+
+ 
+  ## :pushpin: My proyects
+  <div>
+  ![concerteck1](https://user-images.githubusercontent.com/87136807/179633379-01d37860-ddab-4799-a7f0-c3d37a7abcf5.jpg)
+
+  </div>
+  
