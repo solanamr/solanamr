@@ -62,7 +62,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 ## :paperclip: How to reach me:
 
- <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" ></a> 
- <a href = "mailto:estebancarrizo619@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" ></a>
+ <a href="https://www.linkedin.com/in/solana-romero/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" ></a> 
+ <a href = "mailto:romerosolana@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" ></a>
 
 
