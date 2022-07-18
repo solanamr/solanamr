@@ -62,4 +62,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 ## :paperclip: How to reach me:
 ![linkedin-icon](https://user-images.githubusercontent.com/87136807/179635163-3929ca2c-7a78-4b67-9dac-a993aa137369.svg)
+<a href="https://www.linkedin.com/in/solana-romero/" >
+  ![gmail-icon](https://user-images.githubusercontent.com/87136807/179635298-a27aea31-f30d-414b-b78a-c9be1fe1f411.svg)
+<a href="mailto:romerosolana@gmail.com" >
+
 
