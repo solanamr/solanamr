@@ -61,8 +61,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 
 ## :paperclip: How to reach me:
-<a href="https://www.linkedin.com/in/solana-romero/" > 
-![linkedin-icon](https://user-images.githubusercontent.com/87136807/179634830-3a41d4ae-272b-4d5f-8517-c8fcc5995dec.svg)
-
-  &nbsp;
-<a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<span >
+<a href="https://www.linkedin.com/in/solana-romero/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:romerosolana@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+</span>
