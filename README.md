@@ -22,6 +22,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <div>
   <img align="center" title="nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" title="Sequelize" alt="express" height="30" width="40" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
+  <img align="center" title="Sequelize" alt="express" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   </div>
   
 #### Tools:
