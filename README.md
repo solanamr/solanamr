@@ -15,7 +15,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" title="Redux" alt="React" height="30" width="40" src="https://worldvectorlogo.com/es/logo/redux">
+  <img align="center" title="Redux" alt="Redux" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg">
 </div> 
   
 #### Back-end:
