@@ -40,7 +40,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
  
 ![concerteck1](https://user-images.githubusercontent.com/87136807/179634261-e9868069-f67b-4c4f-8195-8e00fa9bd577.jpg)
 
- </br>
+ </br> 
  
 ![concerteck2](https://user-images.githubusercontent.com/87136807/179634408-e902322e-6db1-4ca2-8ca2-3d7873ad3842.jpg)
 
