@@ -24,9 +24,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <div>
   <img align="center" title="Nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" title="Sequelize" alt="express" height="30" width="40" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
-  <img align="center" title="PostgreSQL" alt="express" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img align="center" title="PostgreSQL" alt="express" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  <img align="center" title="Sequelize" alt="Sequelize" height="30" width="40" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
+  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" />
   </div>
   
