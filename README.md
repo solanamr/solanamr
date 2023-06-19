@@ -40,7 +40,6 @@ Frontend Developer :heart: from Argentina to :earth_americas:
  
   ## :pushpin: My proyects
 
-    Gualda challenge
     
   ![Gualda challenge](https://github.com/solanamr/solanamr/assets/87136807/8b08adb3-e22b-4f6b-b0c4-7c3b1868003d)
   
